@@ -5,14 +5,13 @@ Dashboard filters and visualizes data based on Location, Etnicity, Age, Weekday 
 
 
 Original Data can be accessed here: <br><a href='https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u'>https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u </a>
-<br>I will add accesing the programatically through Socrata at some point.
-
+<br>I will add accesing the up-to-date data programatically through Socrata at some point.
 
 Tools Required:
 * Jupyter Notebook (notebook in the repo)
 * Pandas
 * Altair
 
-Dashboard can be viewed here: <a href='https://prattsavi.github.io/NYDP_ArrestsData/'>https://prattsavi.github.io/NYDP_ArrestsData/</a>
+Dashboard can be viewed [here](https://prattsavi.github.io/NYDP_ArrestsData/)
 
-Altair is not the best library for creating geographic plots, that is why the code utilizes the scatter plot function.
+Altair is not the best library for creating geographic plots, that is why the code utilizes the scatter plot function. Not the best practice.
