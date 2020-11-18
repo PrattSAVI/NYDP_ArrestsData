@@ -3,14 +3,7 @@ Notebook creates a very simple dashboard using Altair library in [Jupyter Notebo
 
 Dashboard filters and visualizes data based on Location, Etnicity, Age, Weekday and Arrest Description. Selection filters currently work left to right. 
 
-
-Original Data can be accessed through [Open Data NYC](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u)  
-I will add accesing the up-to-date data programatically through Socrata at some point.
-
-Tools Required:
-* Jupyter Notebook (notebook in the repo)
-* Pandas
-* Altair
+Original Data can be accessed through [Open Data NYC](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u). 
 
 Dashboard can be viewed [here](https://prattsavi.github.io/NYDP_ArrestsData/)
 
