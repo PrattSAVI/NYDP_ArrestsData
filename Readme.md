@@ -1,11 +1,11 @@
 ### Filtering & Visualizing NYPD historic arrests data
-Notebook creates a very simple dashboard using Altair library in <a href='https://github.com/PrattSAVI/NYDP_ArrestsData/blob/master/NYPD%20Historic%20Arrests%20Data%20Dashboard.ipynb'>Jupyter Notebook</a>
+Notebook creates a very simple dashboard using Altair library in [Jupyter Notebook](https://github.com/PrattSAVI/NYDP_ArrestsData/blob/master/NYPD%20Historic%20Arrests%20Data%20Dashboard.ipynb).
 
 Dashboard filters and visualizes data based on Location, Etnicity, Age, Weekday and Arrest Description. Selection filters currently work left to right. 
 
 
-Original Data can be accessed here: <br><a href='https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u'>https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u </a>
-<br>I will add accesing the up-to-date data programatically through Socrata at some point.
+Original Data can be accessed through [Open Data NYC](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u)  
+I will add accesing the up-to-date data programatically through Socrata at some point.
 
 Tools Required:
 * Jupyter Notebook (notebook in the repo)
